@@ -1,3 +1,2 @@
-install.packages("tidyverse")
-install.packages("plotly")
 install.packages("bigrquery")
+install.packages("repr")

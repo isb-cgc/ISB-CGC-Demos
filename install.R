@@ -5,4 +5,5 @@ install.packages("tidyr")
 install.packages("scales")
 install.packages("resample")
 install.packages("digest")
-
+install.packages("stringr")
+install.packages("ggplot2")

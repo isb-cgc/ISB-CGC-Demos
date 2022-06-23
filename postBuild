@@ -1,2 +1,4 @@
 #!/bin/bash
+wget https://cran.r-project.org/src/contrib/Archive/matrixStats/matrixStats_0.60.1.tar.gz
+R CMD INSTALL matrixStats_0.60.1.tar.gz
 curl https://storage.googleapis.com/demo-temp-files/key-file > ~/key-file
